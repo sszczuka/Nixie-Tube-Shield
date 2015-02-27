@@ -1,5 +1,5 @@
 # Nixie-Tube-Shield
-Clock program for the Arduino to run on the Nixie Tube Shield from Switchmode Designs.
+Clock program for the Arduino to run on the Nixie Tube Shield from http://switchmodedesign.com/
 This is base on the OpenSourceNixieTubeShieldFirmware and adds support for the adafruit 
 DS1307 Real Time Clock breakout board kit.
 
