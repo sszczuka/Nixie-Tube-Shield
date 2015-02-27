@@ -1,6 +1,6 @@
 # Nixie-Tube-Shield
 Clock program for the Arduino to run on the Nixie Tube Shield from http://switchmodedesign.com/
-This is base on the OpenSourceNixieTubeShieldFirmware and adds support for the adafruit 
+This is based on the OpenSourceNixieTubeShieldFirmware and adds support for the adafruit 
 DS1307 Real Time Clock breakout board kit.
 
 The serial monitor is set to 57600 baud.
